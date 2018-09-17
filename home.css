@@ -1,0 +1,76 @@
+#header{
+    width:50vh;
+    height:10%;
+    border:1px solid red;
+    padding-left: 30px;
+    margin: 30px;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url("green.jpg");
+    background-position:center;
+    width:50% ;
+    padding-right:30px;
+    margin-left:50%;
+    position:relative;
+    right:25%;
+
+    
+}
+body,html{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url(mountain.jpg);
+    background-position:center;
+   
+}
+
+  
+
+.boss{ 
+    margin:50px;
+    padding-bottom: 10px;
+    display: inline;
+    background-color: white;
+}
+.boss1{
+    display: inline;
+}
+.boss2{
+    display: inline;
+}
+.blast{
+    display: inline;
+}
+.blast1{
+    display: inline;
+}
+.doggy{
+    font-size: 100%;
+    padding-left: 30%;
+    padding-bottom: 60%;
+    color: blue
+  
+}
+.doggy h3:hover{
+    background-color: brown;
+}
+
+#snake{
+    width:50vh;
+    height:10%;
+    border:10   px dotted red;
+    paddi: 30px;
+    margin: 30px;
+
+    width:50% ;
+    padding-right:30px;
+    margin-left:50%;
+    position:relative;
+    bottom:25%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url("house.jpg");
+    background-position:center;
+   
+}
